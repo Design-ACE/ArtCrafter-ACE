@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ArtCrafter-ACE
 - I’m a product designer
-- A Front End Developer
-- Back End Developer
+- A Front End Web Developer
+- A Graphics Designer 
+- An Artii
 - I'm very creative and I deliver accurately
 - How to reach me: 07018984058, artcrafter.ace@gmail.com
 - I'm excited to work with you.
