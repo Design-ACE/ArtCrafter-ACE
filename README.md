@@ -4,7 +4,7 @@
 - An Illustrator
 - An Artist
 - I'm a versatile problem solver, blending graphics design, UI/UX design, Frontend web development, and art to provide solutions. I'm very creative and I deliver accurately
-- How to reach me: 07018984058, artcrafter.ace@gmail.com
+- How to reach me: 07018984058, danielallison1917@gmail.com
 - I'm excited to work with you.
 
 <!---
